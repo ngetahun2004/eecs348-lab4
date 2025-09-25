@@ -1,4 +1,3 @@
 <?php
-// Simple test PHP file
-echo "Hello from PHP in Docker!";
+echo "Testing Nathaneal's Lab 4 Web App is running in Docker!";
 ?>
